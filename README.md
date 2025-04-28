@@ -3,6 +3,16 @@ Vendox is a modern and responsive mini e-commerce platform built with React.js.
 It features a dynamic category slider, product listings, cart functionality, and a clean mobile-first UI.
 This project showcases a scalable architecture suitable for real-world e-commerce applications.
 
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
+![Issues](https://img.shields.io/github/issues/Dannon10/vendox)
+![Forks](https://img.shields.io/github/forks/Dannon10/vendox?style=social)
+![Stars](https://img.shields.io/github/stars/Dannon10/vendox?style=social)
+
+
+
 🚀 Features
 🛍️ Product browsing by categories
 
