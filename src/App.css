@@ -945,7 +945,7 @@ ul{
 .product-card{
   display: grid;
   justify-content: center;
-  width: 28rem;
+  width: 35rem;
   padding: 2rem;
 }
 
