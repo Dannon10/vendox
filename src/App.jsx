@@ -11,12 +11,12 @@ import Error404 from './components/Error404';
 export default function App() {
   const location = useLocation();
 
-  // We check if the current route is valid or a 404 route
+
   const is404 = location.pathname !== '/' && location.pathname !== '/products' && location.pathname !== '/cart' && !location.pathname.includes('/category/');
 
   return (
     <div>
-      {/* Render the header only if it's not the 404 page */}
+      
       {!is404 && <Header />}
       
       <Routes>
@@ -25,7 +25,6 @@ export default function App() {
         <Route path="/cart" element={<Cart />} />
         <Route path="/category/:categoryName" element={<Categories />} />
         
-        {/* Catch-all route for any unmatched paths */}
         <Route path="*" element={<Error404 />} />
       </Routes>
     </div>
