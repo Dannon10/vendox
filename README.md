@@ -43,33 +43,6 @@ React Icons (iconography)
 
 DotLoader (loading animations)
 
-📂 Project Structure
-pgsql
-Copy
-Edit
-Vendox/
-│
-├── public/
-│   └── sitemap.xml
-│
-├── src/
-│   ├── components/
-│   │   ├── CategorySlide.jsx
-│   │   ├── HeroSection.jsx
-│   │   ├── Header.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Newsletter.jsx
-│   │   └── Review.jsx
-│   ├── pages/
-│   │   └── Home.jsx
-│   ├── App.jsx
-│   ├── index.js
-│   └── styles/
-│       └── (All CSS files)
-│
-├── README.md
-└── package.json
-🧑‍💻 Getting Started
 Follow these instructions to get a copy of Vendox running locally:
 
 1. Clone the repository
